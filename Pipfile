@@ -1,0 +1,14 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "==1.17.4"
+PyOpenGL = "==3.1.4"
+PyOpenGL-accelerate = "==3.1.4"
+
+[requires]
+python_version = "3.8"
